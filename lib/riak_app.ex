@@ -1,0 +1,2 @@
+defmodule RiakApp do
+end
